@@ -98,18 +98,17 @@ Transformer Encoder analyzes frame sequences to understand temporal dependencies
 ## Motion Spike Detection
 
 The system computes frame differences to identify sudden abnormal motion patterns that may indicate suspicious activities.
-<img width="402" height="241" alt="Screenshot 2026-05-16 181109" src="https://github.com/user-attachments/assets/8dc0e672-a269-4704-8a65-6454e74dc4a5" />
 
 
 ## Alert and Visualization
 
 Streamlit provides an interactive interface displaying processed video, alerts, anomaly status, and tracking information.
-<img width="576" height="280" alt="Screenshot 2026-05-16 181117" src="https://github.com/user-attachments/assets/5abb52d5-c2c5-4d77-b2c0-83df65b03e46" />
-
+<img width="402" height="241" alt="Screenshot 2026-05-16 181109" src="https://github.com/user-attachments/assets/8dc0e672-a269-4704-8a65-6454e74dc4a5" />
 
 ## Database Logging
 
 MongoDB stores anomaly history, timestamps, tracking IDs, and incident information for future analysis.
+<img width="576" height="280" alt="Screenshot 2026-05-16 181117" src="https://github.com/user-attachments/assets/5abb52d5-c2c5-4d77-b2c0-83df65b03e46" />
 
 ---
 
